@@ -1,0 +1,10 @@
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\bin\Debug\Brive.Bootcamp.Project.DB.dacpac
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\bin\Debug\Brive.Bootcamp.Project.DB.dll
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\bin\Debug\Brive.Bootcamp.Project.DB.pdb
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\Brive.Bootcamp.Project.DB.sqlproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\Model.xml
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\refactor.xml
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\postdeploy.sql
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\predeploy.sql
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\Brive.Bootcamp.Project.DB.dll
+C:\Users\Usuario\Source\Repos\Brive.Bootcamp.BD\Brive.Bootcamp.Project.DB\Brive.Bootcamp.Project.DB\obj\Debug\Brive.Bootcamp.Project.DB.pdb
