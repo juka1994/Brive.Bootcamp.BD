@@ -1,0 +1,8 @@
+﻿CREATE TABLE [dbo].[Company]
+(
+	[Id] INT NOT NULL IDENTITY(1,1),
+	[Name] VARCHAR(50) NOT NULL,
+	[NumberJobs] INT NOT NULL,
+    [Date] Date NOT NULL,
+	CONSTRAINT [PK_COMPANY] PRIMARY KEY CLUSTERED ([Id] ASC)
+)
